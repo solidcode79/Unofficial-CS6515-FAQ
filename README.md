@@ -8,7 +8,7 @@ Anyone planning to take, or taking, CS6515 at Gatech.
 
 This course can be frustrating and frustration usually increases after the grades come out for the first few homeworks and peaks after the grades are out for the first exam.
 
-A lot of people will go to student forums to vent, and/or on Reddit. From what I could understand from the outside, the TA team is accustomed to this happening almost every semester. It's a pain to watch and it drags everyone down.
+A lot of people will go to student forums to vent, and/or on Reddit. From what I could understand from the outside, the TA team is accustomed to this happening almost every semester. It is frustrating to watch this back and forth and difficult to udnerstand especially mid-way through the course.
 
 ## Pre-requisites for reading this FAQ.
 
@@ -20,19 +20,19 @@ I assume you know what CS6515 is about. If not, read these first
 
 By now, you'd have gathered, that 
 
-1. There are three exams, several homeworks, a few projects, and several polls. 
+1. There are three exams (plus a cummulative final exam in Fall/Spring), several homeworks, a few projects, and several polls. 
 2. Homework problems are similar to Exam problems.
 3. Polls are similar to Exam MCQ.
 4. Each exam usually has 2 problems worth 20 points each (like homeworks) and several MCQs worth 20 points.
 
 With that in mind, I will go over things that trip people over ... after the exam 1 grades come out. 
 
-## Common BS you MAY find on Ed during courses of the semester or on (now erstwhile) OMSCentral
-Wrong feedback/opinions/BS you are likely to hear (noise):
-1. HW and exam aren't related
-2. This course is not important for the industry
-3. Leetcoding for this course is not helpful
-4. Exams should be dropped and the course should be made more 'project centric'
+## Common perceptions you MAY find on Ed during courses of the semester or on (now erstwhile) OMSCentral
+Being focus on end goal is very important in this course, and being aware some biased feedback/opinions on the internet is important to understand:
+1. HW and exam aren't related - They are!
+2. This course is not important for the industry - It is!
+3. Leetcoding for this course is not helpful - It is helpful!
+4. Exams should be dropped and the course should be made more 'project centric' - It's a perspective, not the answer though.
 
 ## Why is this course so exam centric? How/Why topics of GA are selected?
 
@@ -45,19 +45,17 @@ Here is the one from Cornell (https://www.cs.cornell.edu/courses/cs4820/2021sp/s
 - Final exam (cumulative): from 20% to 55%
 - Completion of course evaluation: 1%
 
-
-
-So, the questions about grading, topics, etc are more of an academia thing than really a CS6515 issue. All those rants about I hate exams (so do I) are just rants, Gatech can't help you there.
+So, the questions about grading, topics, etc are more of an academia thing than really a CS6515 issue. All those perceptions about I hate exams (so do I) are just rants, Georgia Tech can't help you there.
 
 ## Is this stuff used in the industry
 Your mileage may vary based on your industry and your job assignment but usually, it's more common than one might think. Also, this stuff is heavily tested in job interviews. You'd have to delve much deeper than CS6515 for those FAANG jobs.
 
 ## What makes this course hard?
-1. Problem-solving skills
+1. Problem-solving skills / Intuition
 2. Answer format
 3. Grading inconsistency
 
-1 makes the course hard which I believe is a good thing, while 2 and 3 get talked about the most.
+(1) makes the course hard which I believe is a good thing, while (2) and (3) get talked about the most. (2) is there to avoid biased grading and so whole team of TAs provide an almost uniform scores. (3) is a result of the relativity theory and can be either countered by fighting for the smallest points in regrades. (3) is also a good practice for industry to do just what is required, not what looks fancy.
 
 ## Why does the course have to be this hard?
 Why do job interviews have to be that hard? Hard is not the problem. 
@@ -66,11 +64,11 @@ Why do job interviews have to be that hard? Hard is not the problem.
 1. People taking this as the last course to graduate. 
 2. Grading inconsistency
 
-Again, if you can take this course earlier, it will just remove the extra stress. 
+Again, if you can take this course earlier, it will just remove the extra stress. Although it is difficult to get in before, yet it is not unheard of people taking GA as one of their earlier courses. You can always try each semester.
 
 I'm not sure if there is even substantial grading inconsistency but even if there was I don't see how grading inconsistency can cause a large number of students to fail an exam. Sure some people on the fringe with the overall score may get left behind but again how many people. This topic generates disproportionate amount of noise.
 
-For all three exams, I found that the grading was accommodating and a lot of partial credit was given. To my mind, the only reason to flunk an exam would be to screw up on the problems by selecting a wrong approach. 
+For all three exams in Summers 2022, I found that the grading was accommodating and a lot of partial credit was given. To my mind, the only reason to flunk an exam would be to screw up on the problems by selecting a wrong approach. 
 
 ## Do I need to study mathematical proofs to succeed in this course?
 So, the thing I guess every semester there are a few mathsies and they can relate the material to their background and they think ... a ha, proofs, you gotta learn proofs. Is that right yes? After all the field of Algorithms, and problem-solving has deep mathematical roots [1]. However, I'm a CS guy and anyone doing this course wants to switch over to CS. To my mind, improving your problem solving skills will give you most return on your time invested while mathematical proof not so much.
@@ -82,6 +80,11 @@ Leetcode is a very effective way to develop problem-solving skills, although not
 
 The rest of the stuff you can learn but developing basic problem-solving skills while possible to do for someone really smart may put you under a lot of stress, and if you fail to do so, your venting would probably put lots of others in stress.
 
+There is a great website, https://www.geeksforgeeks.com, that covers quite a lot of textbook as well as general algorithmic problems like dynamic programming, divide and conquer as well as (and most of all) NP-Completeness proofs. Practice as many problem on this website as you can. (It is better to do this after going through HW practice problems and Office Hours)
+
+## How to study in Study Groups?
+In my experience, form a small study group that is committed and consistent. Make a regular timetable instead of leaving it on chat when to meet next, for example, every Monday, Wednesday and Saturday is one such schedule. Treat these study groups as if you are the student as well as the tutor. Everyone in the group picks up a topic and teaches it to others in the group. Think and challenge each other collectively on what could come in the exam. Especially, try to get into Professor's mind on what could be an MCQ topic and what could come as a 20 point question.
+
 ## I don't have the prerequisites or time to prepare - can I get a B in CS6515?
 People have done it before but I won't have been able to. For me, it took me several years to develop problem solving skills, a peer of mine at school developed better skills than me in a matter of months but a majority of people I met took several iterations, say a couple of years to develop basic problem-solving skills (usually those two years were during their undergrad years or over the first few years of their job). 
 
@@ -89,7 +92,7 @@ People have done it before but I won't have been able to. For me, it took me sev
 The people venting and all that puts the teaching staff on a very slippery slope - Cheap wasn't enough, now they want it easy. I want to row, if I can, in the opposite direction.
 
 ## This course is perfect?
-Well, the course could be improved and I suggest you write those suggestions during the course and put them in the CIOS. Ranting about it on student forums will waste everyone's time. 
+Well, the course could be improved and I suggest you write those suggestions during the course and put them in the CIOS. Every vote counts, and trust me, the teaching staff is eager to understand your opinion. As a general rule anywhere in life, be objective and data-oriented in your opinion. Ranting about it on student forums will not just waste everyone's time but also scare off upcoming student batches.
 
 ## Ok, level with me what's wrong with this course, besides the CIOS BS?
 Well, no one has tried to teach algorithms at scale before. No one has ever tried to teach such a diverse cohort of students and no one has ever faced so much public scrutiny before. 
