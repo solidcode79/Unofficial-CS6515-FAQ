@@ -47,7 +47,7 @@ Here is the one from Cornell (https://www.cs.cornell.edu/courses/cs4820/2021sp/s
 
 
 
-So, the questions about grading, topics, etc are more of an academic thing than really a CS6515 issue. All those rants about I hate exams (so do I) are just rants, Gatech can't help you there.
+So, the questions about grading, topics, etc are more of an academia thing than really a CS6515 issue. All those rants about I hate exams (so do I) are just rants, Gatech can't help you there.
 
 ## Is this stuff used in the industry
 Your mileage may vary based on your industry and your job assignment but usually, it's more common than one might think. Also, this stuff is heavily tested in job interviews. You'd have to delve much deeper than CS6515 for those FAANG jobs.
