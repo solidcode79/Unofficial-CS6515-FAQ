@@ -3,7 +3,7 @@
 ## TL;DR
 
 Passing GA needs, in order of difficulty:
-1. Have/develop problem-solving skills
+1. Have/develop problem-solving skills by doing "suggested DPV problems" at the wiki (link below), additonally "Leetcode" problems.
 2. Basic time complexity analysis
 3. Learn how to express your solution in words (akin to learning a programming language where TAs are the interpreter/compiler)
 4. Knowing basic proof techniques could be (re)learned during the course.
