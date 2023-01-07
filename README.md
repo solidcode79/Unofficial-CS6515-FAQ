@@ -9,7 +9,7 @@ Passing GA needs, in order of difficulty:
 4. Knowing basic proof techniques could be (re)learned during the course.
 5. Survive the grading
 
-My advice is to focus on the first; the rest could be coped with during the term. YMMV.
+My advice is to focus on the first; the rest could be coped with during the term. YMMV. And, oh yeah ... the course does not suck!
 
 ## Who is this FAQ for? What's the target audience?
 
