@@ -1,5 +1,16 @@
 # The unofficial FAQ for CS6515
 
+## TL;DR
+
+Passing GA needs, in order of difficulty:
+1. Have/develop problem-solving skills
+2. Basic time complexity analysis
+3. Learn how to express your solution in words (akin to learning a programming language where TAs are the interpreter/compiler)
+4. Knowing basic proof techniques could be (re)learned during the course.
+5. Survive the grading
+
+My advice is to focus on the first; the rest could be coped with during the term. YMMV.
+
 ## Who is this FAQ for? What's the target audience?
 
 Anyone planning to take, or taking, CS6515 at Gatech.
