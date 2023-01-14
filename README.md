@@ -57,11 +57,14 @@ Here is the one from Cornell (https://www.cs.cornell.edu/courses/cs4820/2021sp/s
 
 So, the questions about grading, topics, etc are more of an academia thing than really a CS6515 issue. All those outbursts about I hate exams (so do I) are just rants, Georgia Tech can't help you there.
 
+## A bit about the problems that are part of the exams (each exam has 2 usually)
+The important bit about those problems is that you can expect them to be _novel_. What this means is that usually, you would have not encountered those exact problems before. The level of novelty may vary from a slight variation over the homework problems to something that takes a while to figure out the relationship with your material. Failure to recognize these facts is the root cause of failure. 
+
 ## Is this stuff used in the industry
 Your mileage may vary based on your industry and your job assignment but usually, it's more common than one might think. Also, this stuff is heavily tested in job interviews. You'd have to delve much deeper than CS6515 for those FAANG jobs.
 
 ## What makes this course hard?
-1. Problem-solving skills / Intuition
+1. Problem-solving skills / Intuition / Ability to solve novel problems
 2. Answer format
 3. Grading inconsistency
 
