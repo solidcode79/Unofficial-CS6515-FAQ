@@ -40,13 +40,16 @@ By now, you'd have gathered, that
 
 With that in mind, I will go over things that trip people over ... after the exam 1 grades come out. 
 
+## A bit about the problems that are part of the exams (each exam has 2 usually)
+The important bit about those problems is that you can expect them to be _novel_. What this means is that usually, you would have not encountered those exact problems before. The level of novelty may vary from a slight variation over the homework problems to something that takes a while to figure out the relationship with your material. Failure to recognize these facts is the root cause of failure. 
+
 ## Flawed ideas you MAY find on Ed during courses of the semester or on (now erstwhile) OMSCentral
 1. HW and exam aren't related - They are!
 2. This course is not important for the industry - It is!
 3. Leetcoding for this course is not helpful - It is helpful!
 4. Exams should be dropped and the course should be made more 'project centric' - It's a perspective.
 
-## Why is this course so exam centric? How/Why topics of GA are selected?
+## Why is this course so exam centric? How topics of GA are selected?
 
 Take any graduate-level algorithm course from any of the top schools and you'll find that it's mostly taught like CS6515 and the topic selection is also similar. 
 
@@ -58,9 +61,6 @@ Here is the one from Cornell (https://www.cs.cornell.edu/courses/cs4820/2021sp/s
 - Completion of course evaluation: 1%
 
 So, the questions about grading, topics, etc are more of an academia thing than really a CS6515 issue. All those outbursts about I hate exams (so do I) are just rants, Georgia Tech can't help you there.
-
-## A bit about the problems that are part of the exams (each exam has 2 usually)
-The important bit about those problems is that you can expect them to be _novel_. What this means is that usually, you would have not encountered those exact problems before. The level of novelty may vary from a slight variation over the homework problems to something that takes a while to figure out the relationship with your material. Failure to recognize these facts is the root cause of failure. 
 
 ## Is this stuff used in the industry
 Your mileage may vary based on your industry and your job assignment but usually, it's more common than one might think. Also, this stuff is heavily tested in job interviews. You'd have to delve much deeper than CS6515 for those FAANG jobs.
