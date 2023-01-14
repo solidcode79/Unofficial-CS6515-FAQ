@@ -21,6 +21,8 @@ This course can be frustrating and frustration usually increases after the grade
 
 A lot of people will go to student forums to vent, and/or on Reddit. From what I could understand from the outside, the TA team is accustomed to this happening almost every semester. It is frustrating to watch this back and forth and difficult to understand especially mid-way through the course.
 
+Hopefully, this FAQ helps reduce this venting.
+
 ## Pre-requisites for reading this FAQ.
 
 I assume you know what CS6515 is about. If not, read these first
