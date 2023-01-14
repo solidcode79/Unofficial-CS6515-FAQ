@@ -13,7 +13,7 @@ My advice is to focus on the first; the rest could be coped with during the term
 
 ## Who is this FAQ for? What's the target audience?
 
-Anyone planning to take, or taking, CS6515 at Gatech.
+Anyone planning to take, or taking, CS6515 at Gatech. The FAQ is more focussed on helping people develop the *right* perspective about GA and how to survive it; the advice is probably redundant for someone trying to ace GA ... you probably already know all this. 
 
 ## Why this FAQ is needed?
 
