@@ -89,13 +89,13 @@ For all three exams in Summers 2022, I found that the grading was accommodating 
 So, the thing I guess every semester there are a few mathsies and they can relate the material to their background and they think ... a ha, proofs, you gotta learn proofs. Is that right yes? After all the field of Algorithms, and problem-solving has deep mathematical roots [1]. However, I'm a CS guy and anyone doing this course wants to switch over to CS. To my mind, improving your problem solving skills will give you most return on your time invested while mathematical proof not so much.
 
 ## How to prepare? How to develop problem-solving skills? 
-See the prerequisites at https://omscs.gatech.edu/cs-8803-ga-graduate-algorithms and if possible learn those things and try to do related LCs if you can.TODO: I wish I could arrange some LC easy questions (like a blind 75) that would help build some intuition around problem-solving for the prerequisite topics. 
+See the prerequisites at https://omscs.gatech.edu/cs-8803-ga-graduate-algorithms and if possible learn those things and try to do related LCs if you can.TODO: I wish I could arrange some LC easy questions (like a blind 75) that would help build some intuition around problem-solving for the prerequisite topics. See [See-Sharp-25.md](https://github.com/solidcode79/Unofficial-CS6515-FAQ/blob/main/See-Sharp-25.md)
 
 Leetcode is a very effective way to develop problem-solving skills, although not the only way. The course expects you already have developed problem-solving/algorithmic skills - "In particular, they should be familiar with basic graph algorithms, including DFS, BFS, and Dijkstra's shortest path algorithm, and basic dynamic programming and divide and conquer algorithms".
 
 The rest of the stuff you can learn but developing basic problem-solving skills while possible to do for someone really smart may put you under a lot of stress, and if you fail to do so, your venting would probably put lots of others in stress.
 
-Other than that, you can search the topics on youtube, checkout https://www.geeksforgeeks.com, the resrouces around these topics are innumerable. 
+Other than that, you can search the topics on youtube, etc the resrouces around these topics are innumerable.
 
 ## How to study in study groups?
 In my experience, form a small study group that is committed and consistent. Make a fixed schedule instead of leaving it on chat when to meet next, for example, every Monday, Wednesday and Saturday is one such schedule. Treat these study groups as if you are the student as well as the tutor. Everyone in the group picks up a topic and teaches it to others in the group, is a way to go.
